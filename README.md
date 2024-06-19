@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou o Raphael 👋
 
-<!--
-**Raph4sa/Raph4sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante do Canadá apaixonado por tecnologia e programação. Atualmente, estou aprimorando minhas habilidades de desenvolvimento através do curso oferecido pela Alura. Este espaço é dedicado aos meus projetos e aprendizados no mundo da programação.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📖 Estudante no Canadá
+- 💻 Aprendendo programação com [Alura] (https://www.alura.com.br/)
+- 🌱 Explorando novas tecnologias e frameworks
+- 🚀 Programando jogos pelo Scratch e p5.js
+
+## Entre em contato
+
+00001120602725sp@al.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/look-at-aurum-dog-aurum-so-cute-gif-4637197256753416402)
