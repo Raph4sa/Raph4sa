@@ -5,7 +5,7 @@ Sou um estudante do Canadá apaixonado por tecnologia e programação. Atualment
 ## Sobre Mim
 
 - 📖 Estudante no Canadá
-- 💻 Aprendendo programação com [Alura] (https://www.alura.com.br/)
+- 💻 Aprendendo programação com [Alura](https://www.alura.com.br)
 - 🌱 Explorando novas tecnologias e frameworks
 - 🚀 Programando jogos pelo Scratch e p5.js
 
@@ -13,4 +13,4 @@ Sou um estudante do Canadá apaixonado por tecnologia e programação. Atualment
 
 00001120602725sp@al.educacao.sp.gov.br
 
-![](https://tenor.com/pt-BR/view/look-at-aurum-dog-aurum-so-cute-gif-4637197256753416402)
+![](https://media1.tenor.com/m/QFqiVgo0CNIAAAAC/look-at-aurum-dog-aurum-so-cute.gif)
